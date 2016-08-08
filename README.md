@@ -27,8 +27,6 @@ if so provide a identfying number. If it doesn't recognize the face it will
 use the image to generate a training set of new imags, again using opencv's
 generators, and learn against it.
 
-### Experiment 1: learning - Apply new faces to classification network
-
 ### Experiment 2: Recognition - Identifying buttons on a page
 
 This is similar to experiement 1 instead of faces, this will detect buttons in a
@@ -38,7 +36,7 @@ scratch.
 
 Given I have a screenshot I can get a list of button bounding boxes. 
 
-### Experiment 2: Learning - Find paths through an application
+### Experiment 3: Learning - Find paths through an application
 
 Given I have an driver that can perform clicks and take screenshots and I can
 identify a goal in a screenshot then I can evaluate a strategy for a sequence of
