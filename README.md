@@ -4,7 +4,7 @@
 
 I've found a need to dive deeply and learn comprehensivly about a particular
 subject. In my survey of the computer science landscape I find that the
-applications of machine learning are extreamly interesting and a worth while
+applications of machine learning are a worth while
 area of the field to persue in depth. 
 
 ## Experiments
